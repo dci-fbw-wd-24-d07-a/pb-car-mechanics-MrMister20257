@@ -1,0 +1,15 @@
+{
+  "name": "pb-car-mechanics-mrmister20257",
+  "version": "1.0.0",
+  "description": "Du sollst ein Suchprogramm schreiben für eine Autowerkstatt. Der Mechaniker kann einen Suchbegriff eingeben und bekommt passende Teile angezeigt. Bei der Anzeige wird unterschieden ob Teile vorhanden oder nicht auf Lager sind.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
