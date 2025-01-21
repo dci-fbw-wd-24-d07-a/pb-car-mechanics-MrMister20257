@@ -51,7 +51,7 @@ while (isBestellt === false) {
                 console.log(`${anzahl} Bremsklötze wurden erfolgreich bestellt! Verbleibender Bestand: ${brands[hersteller].bremsklötze}`)
                 isBestellt = true;
             } else {
-                console.log("Nicht genügend Keilriemen auf Lager.")
+                console.log("Nicht genügend Bremsklötze auf Lager.")
             }
         } else {
             console.log("Keine Bestellung vorgenommen.")
